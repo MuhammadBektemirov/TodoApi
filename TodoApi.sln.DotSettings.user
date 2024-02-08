@@ -1,0 +1,38 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21fd1f66_002D9c67_002D467a_002Daa51_002D0537fee448be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateTodoAsync_ShouldCreateTodo #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.CreateTodoAsync_ShouldCreateTodo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39df8b72_002Dcd9a_002D4f55_002Da19c_002D0a2eba849644/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateTodoAsync_ShouldCreateTodo #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.CreateTodoAsync_ShouldCreateTodo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3af8bd5b_002D1e33_002D44e2_002D8f98_002Da8289fc5268e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateTodoAsync_ShouldCreateTodo #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.CreateTodoAsync_ShouldCreateTodo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52ca9524_002D110c_002D44ed_002D959f_002D58cc514b83ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateTodoAsync_ShouldCreateTodo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.CreateTodoAsync_ShouldCreateTodo&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.UpdateTodoAsync_ShouldUpdateTodo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=96d56635_002Ddc46_002D4852_002D8e47_002D11f5e59c21a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateTodoAsync_ShouldCreateTodo #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.CreateTodoAsync_ShouldCreateTodo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e95f6172_002D5033_002D422a_002Da60f_002D2b2c58adbf7d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateTodoAsync_ShouldCreateTodo #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::6D0DCBDE-B1B5-435B-9C61-6119578A68C5::net8.0::TodoApi.IntegrationTest.Todo.TodoTest.CreateTodoAsync_ShouldCreateTodo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
